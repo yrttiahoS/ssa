@@ -4,4 +4,4 @@ Analyses for article publication "Neural specialization to human faces at the ag
 The repository will contain analysis code data made available at Zenodo and published in peer-reviewed scientific article.
 Data will contain event-related potentials.
 
-Zenodo archive of data: 
+Zenodo archive of data: 10.5281/zenodo.6801531
